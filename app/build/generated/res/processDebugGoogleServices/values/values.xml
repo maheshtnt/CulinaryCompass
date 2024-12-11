@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">16889460102</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZEhswVLanTHshRb4ac_0KJqyet80GDPs</string>
+    <string name="google_app_id" translatable="false">1:16889460102:android:d8faefb24ccc88ee58e807</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZEhswVLanTHshRb4ac_0KJqyet80GDPs</string>
+    <string name="google_storage_bucket" translatable="false">culinarycompass-ef9cf.firebasestorage.app</string>
+    <string name="project_id" translatable="false">culinarycompass-ef9cf</string>
+</resources>
