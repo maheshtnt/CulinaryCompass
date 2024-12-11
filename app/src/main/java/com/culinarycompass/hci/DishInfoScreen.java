@@ -1,10 +1,8 @@
 package com.culinarycompass.hci;
 
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.WindowManager;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
@@ -17,9 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewpager2.widget.ViewPager2;
 
 import android.text.SpannableString;
-import android.text.Spanned;
-import android.text.style.StyleSpan;
-import android.graphics.Typeface;
+
 import com.culinarycompass.hci.Adapters.ImageAdapter;
 import com.culinarycompass.hci.Adapters.ViewPagerAdapter;
 import com.culinarycompass.hci.Fragments.ChatBotDialog;

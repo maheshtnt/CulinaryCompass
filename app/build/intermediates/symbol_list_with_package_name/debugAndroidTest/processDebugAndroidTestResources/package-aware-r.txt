@@ -1,3 +1,0 @@
-com.culinarycompass.hci.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
